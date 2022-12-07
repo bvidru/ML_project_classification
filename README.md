@@ -103,3 +103,6 @@ Attrition -  (our target) Information whether a given employee quit the job or n
 STOCK OPTIONS LEVEL - What percentage of shares does / can the employee own?
 
 PERCENT SALARY HIKE - Percentage increase in wages over the last 2 years.
+
+
+to be continued.....
