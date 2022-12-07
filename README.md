@@ -2,7 +2,7 @@
 
 Machine learning - practical project classification
 
-This project it is about analyzing data from 4 different datasets in order to respond at the question - what factors determine the willingness to stay with the current employer?
+This project it is about analyzing data from 4 different datasets in order to respond to the question - what factors determine the willingness to stay with the current employer?
 
 Using machine learning classification models, I have to predict whether or not an employee will quit their job.
 
